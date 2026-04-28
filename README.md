@@ -1,6 +1,6 @@
 # [reesewesterhoff.com](https://www.reesewesterhoff.com/)
 
-My personal website [https://www.reesewesterhoff.com](https://www.reesewesterhoff.com/), built with Vite, HTML, CSS, and JavaScript.
+My personal website [https://www.reesewesterhoff.com](https://reesewesterhoff.com/), built with Vite, HTML, CSS, and JavaScript.
 
 ## Develop
 
